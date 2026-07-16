@@ -83,8 +83,8 @@
 				&kp LCTRL  &kp SEMI      &kp Q         &kp J          &kp K         &kp X
 				&kp B      &kp M         &kp W         &kp V          &kp Z         &kp RCTRL
 
-				&mo NAVIGATION  &mo SYMBOL     &kp SPACE
-				&kp RET         &mo NUMBER     &mo FUNCTION
+				&mo NAVIGATION  &mo SYMBOL     &kp RET
+				&kp SPACE       &mo NUMBER     &mo FUNCTION
 			>;
 		};
 

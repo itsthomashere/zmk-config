@@ -23,7 +23,7 @@
 
 			flavor = "balanced";
 			tapping-term-ms = <180>;
-			quick-tap-ms = <100>;
+			quick-tap-ms = <120>;
 			require-prior-idle-ms = <100>;
 
 			bindings = <&kp>, <&kp>;
@@ -46,7 +46,7 @@
 
 			flavor = "balanced";
 			tapping-term-ms = <180>;
-			quick-tap-ms = <100>;
+			quick-tap-ms = <120>;
 			require-prior-idle-ms = <100>;
 
 			bindings = <&kp>, <&kp>;
